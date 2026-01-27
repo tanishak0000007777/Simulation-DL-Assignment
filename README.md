@@ -79,7 +79,7 @@ The bar chart below visualizes the **TOPSIS Score** of each model.
 Ensure you have the following libraries installed:
 ```bash
 pip install simpy scikit-learn pandas numpy matplotlib seaborn Topsis-Gurdarshan-102303217
-
+```
 
 ### Execution
 
@@ -88,11 +88,8 @@ pip install simpy scikit-learn pandas numpy matplotlib seaborn Topsis-Gurdarshan
 3. **Rank Models:** The notebook automatically applies the `topsis` command:
 ```bash
 topsis model_performance.csv "1,1,1,1" "-,-,-,+" result.csv
-
 ```
 
 
 
-```
 
-```
