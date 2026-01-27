@@ -17,7 +17,7 @@ Finally, the **TOPSIS (Technique for Order of Preference by Similarity to Ideal 
 The project was executed in three distinct phases: Simulation, Training, and Evaluation.
 
 ### Step 1: Data Generation (The Simulation)
-Using the **SimPy** discrete-event simulation library, a "Bank" environment was modeled.
+Using the **[SimPy](https://en.wikipedia.org/wiki/SimPy)** discrete-event simulation library, a "Bank" environment was modeled.
 - **Concept:** Customers arrive at the bank at random intervals and request service from a limited number of "Tellers" (Resources). If all tellers are busy, customers queue up.
 - **Parameters:**
     - **Tellers (Independent Variable):** Randomized between 1 and 5.
