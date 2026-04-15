@@ -6,8 +6,8 @@ This project applies **Modelling & Simulation** techniques to generate a synthet
 Finally, the **TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution)** method is applied to rank 8 different ML models to find the most accurate and robust predictor.
 
 ## User Details
-- **Name:** Gurdarshan Singh
-- **Roll Number:** 102303217
+- **Name:** Tanishak Bansal
+- **Roll Number:** 102303398
 - **Submission:** Data Generation & Model Evaluation Assignment
 
 ---
